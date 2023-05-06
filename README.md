@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHARGAVI G HEGDE</h1>
-<h3 align="center">I am a 3rd year CSE student who is enthusiastic about Web Development and Cyber Security. I am always looking forward to learning new technologies and implementing them!</h3>
+<h3 align="center">I am a 3rd year CSE student who is enthusiastic about Web Development and Machine Learning. I am always looking forward to learning new technologies and implementing them!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BHARGAVIGHEGDE](https://github.com/BHARGAVIGHEGDE)
 
